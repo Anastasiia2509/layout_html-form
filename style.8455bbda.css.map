@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,cAEE,kBACF,CAEA,QAEE,aAEF,CAEA,eAEE,kBACF","file":"style.8455bbda.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.labelsBottom {\n\n  margin-bottom: 10px;\n}\n\n.labels {\n\n  display: block;\n  \n}\n\n.formFieldsets {\n\n  margin-bottom: 20px;\n}\n"]}
