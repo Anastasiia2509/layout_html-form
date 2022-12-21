@@ -1,1 +1,16 @@
 /* styles go here */
+.labelsBottom {
+
+  margin-bottom: 10px;
+}
+
+.labels {
+
+  display: block;
+  
+}
+
+.formFieldsets {
+
+  margin-bottom: 20px;
+}
