@@ -10,3 +10,7 @@
 .formFieldsets {
   margin-bottom: 20px;
 }
+
+.labelsBottom:last-child {
+  margin-bottom: 0;
+}
